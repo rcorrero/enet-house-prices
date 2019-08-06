@@ -15,8 +15,7 @@ In the process of developing a standardized framework, most of my time has been 
 While developing this standard framework for data science projects I've created and utilized several functions and classes to streamline and simplify the process of pipeline construction. I've created a python module named [thermidor](https://github.com/rcorrero/thermidor) where these objects may be found. 
 
 ------------
-Organization
-------------
+# Organization
 ```
 .
 ├── 1.1-enet-house-prices.ipynb
@@ -30,4 +29,4 @@ Organization
     
 ``` 
 
-The project itself may be found in `1.1-enet-house-prices.ipynb`. 
+The project itself may be found at `./1.1-enet-house-prices.ipynb`. The trained and fitted model may be found at `./model/enet_model.pkl`.
