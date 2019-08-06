@@ -24,9 +24,11 @@ While developing this standard framework for data science projects I've created 
 ├── data
 │   ├── data.csv
 │   └── response.csv
-└── model
-    └── enet_model.pkl
+├── models
+│   └── enet_model.pkl
+└── predictions
+    └── predictions.csv
     
 ``` 
 
-The project itself may be found at `./1.1-enet-house-prices.ipynb`. The trained and fitted model may be found at `./model/enet_model.pkl`.
+The project itself may be found at `./1.1-enet-house-prices.ipynb`. The trained and fitted model may be found at `./models/enet_model.pkl`.
