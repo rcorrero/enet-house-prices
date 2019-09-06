@@ -32,3 +32,6 @@ While developing this standard framework for data science projects I've created 
 ``` 
 
 The project itself may be found at `./1.1-enet-house-prices.ipynb`. The trained and fitted model may be found at `./models/enet_model.pkl`.
+
+------------
+Created by Richard Correro in 2019. Contact me at rcorrero at stanford dot edu
