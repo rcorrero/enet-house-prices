@@ -12,7 +12,7 @@ This project has two objectives
 In the process of developing a standardized framework, most of my time has been spent honing my skills with [Scikit Learn pipelines](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html). Pipelines provide a common framework to structure all steps of a data science project, from data preprocessing to prediction. By adhering to a standard framework more time may be spent on data analysis, feature extraction, and understanding the statistical models, and less time spent implementing these things.
 
 # thermidor
-While developing this standard framework for data science projects I've created and utilized several functions and classes to streamline and simplify the process of pipeline construction. I've created a python module named [thermidor](https://github.com/rcorrero/thermidor) where these objects may be found. 
+This project depends on [thermidor](https://github.com/rcorrero/thermidor). thermidor is a Python module containing several functions and classes which simplify the creation of machine learning projects by streamlining Sci-kit Learn pipeline construction.
 
 ------------
 # Organization
